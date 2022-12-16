@@ -1,0 +1,14 @@
+INFO:root:Programm started
+INFO:root:The player called the number 4 ((more than a mystery))
+INFO:root:The player called the number 2 (less than a mystery)
+INFO:root:the player guessed the number 3
+INFO:root:Programm started
+INFO:root:The player called the number 4 ((more than a mystery))
+INFO:root:The player called the number 6 ((more than a mystery))
+INFO:root:The player called the number 8 ((more than a mystery))
+INFO:root:The player called the number 3 ((more than a mystery))
+INFO:root:the player guessed the number 1
+INFO:root:Programm started
+INFO:root:The player called the number 5 ((more than a mystery))
+INFO:root:The player called the number 6 ((more than a mystery))
+WARNING:root:Attempts are over
